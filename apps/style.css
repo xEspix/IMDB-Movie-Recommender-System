@@ -1,0 +1,29 @@
+
+
+#imdb-movie-viewer{
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    color: red;
+}
+
+
+img{
+    border-radius: 5px;
+}
+
+#top-rated-movies{
+    text-align: center;
+    padding: 25px 25px 25px 25px;
+    text-decoration: solid;
+    color:blueviolet;
+    
+}
+
+.e1f1d6gn2{
+    font-size: 14px;
+    text-align: center;
+
+}
+.e1f1d6gn3{
+   color: cornsilk;
+}
